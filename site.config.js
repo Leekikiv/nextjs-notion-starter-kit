@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '3eae4f5fd77f4953a068ef68dddb7636',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '花花漫游指南',
+  domain: 'https://peridot-eyeliner-b90.notion.site/3eae4f5fd77f4953a068ef68dddb7636',
+  author: '白花妖怪',
 
   // open graph metadata (optional)
   description: 'Example site description',
